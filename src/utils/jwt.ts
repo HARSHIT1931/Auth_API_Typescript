@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export const generateToken = (user: any): string => {
-  const secret = "ksbfie";
+  const secret = "JustInfo";
   if (!secret) {
     throw new Error('JWT_SECRET is not defined');
   }
