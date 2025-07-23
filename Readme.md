@@ -43,10 +43,3 @@ This is a basic **Authentication API** built with **Node.js**, **Express**, and 
   Stores sensitive configuration like DB URI and JWT secrets.
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/auth-api-ts.git
-cd auth-api-ts
